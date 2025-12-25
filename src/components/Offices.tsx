@@ -32,10 +32,19 @@ export function Offices({
   return (
     <ul role="list" {...props}>
       <li>
-        <Office name="Dhaka" invert={invert}>
+        <Office name="Bangladesh" invert={invert}>
           Basundhara R/A Block:E,
           <br />
-          Road: 18/C , House:321/C
+          Road: 18/C, House:321/C
+          <br />
+          Dhaka
+        </Office>
+      </li>
+      <li>
+        <Office name="USA" invert={invert}>
+          30 North Gould Street,
+          <br />
+          Sheridan, WY 82801
         </Office>
       </li>
     </ul>

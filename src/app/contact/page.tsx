@@ -96,7 +96,7 @@ function ContactDetails() {
           Email us
         </h2>
         <dl className="mt-6 grid grid-cols-1 gap-8 text-sm sm:grid-cols-2">
-          {[['Careers', 'sohag02.c@gmail.com']].map(([label, email]) => (
+          {[['General Inquiries', 'info@htbyte.com']].map(([label, email]) => (
             <div key={email}>
               <dt className="font-semibold text-neutral-950">{label}</dt>
               <dd>
