@@ -20,7 +20,7 @@ import imageSagorPaul from '@/images/team/sagor-paul.png'
 import imageSohagChowdhury from '@/images/team/sohag-chowdhury.jpg'
 import imageTanvirRahman from '@/images/team/tanvir-rahman.jpg'
 import imageIshtiaqueAhmed from '@/images/team/ishtiaque-ahmed.jpeg'
-import imageTanjilAlamSohan from '@/images/team/tanjil-alam sohan.jpeg'
+import imageTanjilAlamSohan from '@/images/team/tanjil-alam-sohan.jpeg'
 import { loadArticles } from '@/lib/mdx'
 
 function Culture() {
@@ -188,7 +188,7 @@ export default async function About() {
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
             At HTByte, our journey began with a simple yet profound belief: that
-            the key to success in the software industry lies in our clients'
+            the key to success in the software industry lies in our clients&apos;
             satisfaction. We set out to create a company where innovative
             solutions meet unparalleled client service.
           </p>
@@ -196,7 +196,7 @@ export default async function About() {
             Over the years, we have grown from a small startup into a thriving
             software firm. Our portfolio boasts a diverse array of projects,
             each a testament to our ability to adapt, innovate, and succeed.
-            Whether it's developing a custom application, enhancing an existing
+            Whether it&apos;s developing a custom application, enhancing an existing
             system, or providing ongoing support, we approach every project with
             the same level of dedication and enthusiasm.
           </p>

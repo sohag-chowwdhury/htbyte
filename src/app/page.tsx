@@ -197,7 +197,7 @@ function Services() {
           <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-[33rem] lg:pl-4">
             <ListItem title="Web Development">
               We specialize in design stunning, high-converting solutions,
-              whether it's a landing/marketing pages or a comprehensive web
+              whether it&apos;s a landing/marketing pages or a comprehensive web
               experience.
             </ListItem>
             <ListItem title="AI Powered SaaS">
@@ -207,14 +207,14 @@ function Services() {
               tailored to your unique needs.
             </ListItem>
             <ListItem title="E-Commerce Mastery with SEO & Digital Marketing">
-              Amplify your online store's reach and revenue with our
+              Amplify your online store&apos;s reach and revenue with our
               comprehensive blend of SEO and digital marketing services. Enhance
               visibility, engage customers, and achieve sustained growth through
               optimized strategies tailored to your brand.
             </ListItem>
             <ListItem title="Dedicated Team Assembly">
               raft your ideal team with our bespoke team-building service,
-              designed to align perfectly with your project's unique needs.
+              designed to align perfectly with your project&apos;s unique needs.
               Experience seamless collaboration and expert support, ensuring
               your vision is brought to life with precision and passion.
             </ListItem>
